@@ -1,7 +1,14 @@
+# output
+*.pdf
 
-
-
-
-
-
-aux/*
+# intermediate files
+*.aux
+*.bbl
+*.blg
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.fdb_latexmk
+*.fls
